@@ -1,3 +1,7 @@
+
+The link to the website is https://stancuandrei.github.io/Sorting-Project/ .I made this project to give me the possibility to see how the sorting algorithms (Merge sort, Quick Sort, Insertion Sort, Bubble Sort,Selection Sort) in action.I used React and javascript.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
